@@ -14,7 +14,7 @@ I have decided to take the #100DaysOfCode challenge and decided to use GitHub to
 I'll be doing the majority of the challenge from home.
 
 ### When
-I will be starting the challenge today the 20th of March 2021.
+I will be starting the challenge today the 21st of March 2021.
 
 ### Why
 The networking field is changing and a shift is occurring towards the programming and automation of networks. Instead of being left behind, I want to challenge myself to increase my skills and knowledge in this area, along with making myself accountable.
